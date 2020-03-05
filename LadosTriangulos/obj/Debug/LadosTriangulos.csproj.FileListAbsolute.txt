@@ -1,0 +1,6 @@
+C:\Users\Compaq\source\repos\LadosTriangulos\bin\Debug\LadosTriangulos.exe.config
+C:\Users\Compaq\source\repos\LadosTriangulos\bin\Debug\LadosTriangulos.exe
+C:\Users\Compaq\source\repos\LadosTriangulos\bin\Debug\LadosTriangulos.pdb
+C:\Users\Compaq\source\repos\LadosTriangulos\obj\Debug\LadosTriangulos.csprojAssemblyReference.cache
+C:\Users\Compaq\source\repos\LadosTriangulos\obj\Debug\LadosTriangulos.exe
+C:\Users\Compaq\source\repos\LadosTriangulos\obj\Debug\LadosTriangulos.pdb

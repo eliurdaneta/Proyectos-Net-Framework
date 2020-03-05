@@ -1,0 +1,6 @@
+C:\Users\Compaq\source\repos\Edad\bin\Debug\Edad.exe.config
+C:\Users\Compaq\source\repos\Edad\bin\Debug\Edad.exe
+C:\Users\Compaq\source\repos\Edad\bin\Debug\Edad.pdb
+C:\Users\Compaq\source\repos\Edad\obj\Debug\Edad.csprojAssemblyReference.cache
+C:\Users\Compaq\source\repos\Edad\obj\Debug\Edad.exe
+C:\Users\Compaq\source\repos\Edad\obj\Debug\Edad.pdb
