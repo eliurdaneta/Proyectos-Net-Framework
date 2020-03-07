@@ -1,0 +1,6 @@
+C:\Users\Compaq\source\repos\Plano\bin\Debug\Plano.exe.config
+C:\Users\Compaq\source\repos\Plano\bin\Debug\Plano.exe
+C:\Users\Compaq\source\repos\Plano\bin\Debug\Plano.pdb
+C:\Users\Compaq\source\repos\Plano\obj\Debug\Plano.csprojAssemblyReference.cache
+C:\Users\Compaq\source\repos\Plano\obj\Debug\Plano.exe
+C:\Users\Compaq\source\repos\Plano\obj\Debug\Plano.pdb
