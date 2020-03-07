@@ -1,0 +1,6 @@
+C:\Users\Compaq\source\repos\Empleado\bin\Debug\Empleado.exe.config
+C:\Users\Compaq\source\repos\Empleado\bin\Debug\Empleado.exe
+C:\Users\Compaq\source\repos\Empleado\bin\Debug\Empleado.pdb
+C:\Users\Compaq\source\repos\Empleado\obj\Debug\Empleado.csprojAssemblyReference.cache
+C:\Users\Compaq\source\repos\Empleado\obj\Debug\Empleado.exe
+C:\Users\Compaq\source\repos\Empleado\obj\Debug\Empleado.pdb
