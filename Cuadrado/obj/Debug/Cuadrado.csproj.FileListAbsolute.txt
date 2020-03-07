@@ -1,0 +1,6 @@
+C:\Users\Compaq\source\repos\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\Compaq\source\repos\Cuadrado\bin\Debug\Cuadrado.exe
+C:\Users\Compaq\source\repos\Cuadrado\bin\Debug\Cuadrado.pdb
+C:\Users\Compaq\source\repos\Cuadrado\obj\Debug\Cuadrado.csprojAssemblyReference.cache
+C:\Users\Compaq\source\repos\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\Compaq\source\repos\Cuadrado\obj\Debug\Cuadrado.pdb
