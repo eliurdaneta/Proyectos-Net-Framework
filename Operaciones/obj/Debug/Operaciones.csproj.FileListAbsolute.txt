@@ -1,0 +1,6 @@
+C:\Users\Compaq\source\repos\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Compaq\source\repos\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Compaq\source\repos\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Compaq\source\repos\Operaciones\obj\Debug\Operaciones.csprojAssemblyReference.cache
+C:\Users\Compaq\source\repos\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Compaq\source\repos\Operaciones\obj\Debug\Operaciones.pdb
